@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recursion serach file content in Linux"
+title: "Recursion search file content in Linux"
 description: ""
 category: note
 tags: [ubuntu]
