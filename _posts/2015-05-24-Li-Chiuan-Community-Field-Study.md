@@ -8,28 +8,20 @@ tags: [田野調查, 立全社區, 風車社區]
 {% include JB/setup %}
 立全社區，別名風車社區，位在台中市大肚區蔗廍的小小一偶，腹地並不大，社區由兩條主要幹道交織而成，此區大約有40％～50％的原住民租客，推測是因為鄰近東海工業區，加上租金便宜（最高也就7000元），造就此地大部分為外來移入人口。
 
-<p style="text-align: center;">
-	<img style="margin: 0 auto;" " src="/public/images/posts/2015-05-23 11.24.59.jpg"><br>
-	<span>道路狹小</span>
-</p>
-
 雖然租金便宜，但此區相對缺乏公共設施，沒有公園綠地、防災設施，加上道路狹小，只有單線道。此區房價並不高，大約一百萬出頭即可買到一棟平房，但土地產權似乎有些問題，聽說部份地主因為債務糾紛，都已跑路去了，但或許也因為此地租屋需求大，所以此地的違建、頂樓加蓋非常嚴重。
+
+<img class="full-one-img" src="/assets/images/posts/2015-05-23 11.24.59.jpg">
+<span class="full-one-img-text">道路狹小</span>
 
 雖然大肚區在未來都市計畫預估為人口衰退區，但此地因鄰近西屯、龍井區，估計此地未來人口應為正成長，屆時該如何解決違章建築，將會是個大問題。
 
-<p style="text-align: center;">
-	<img style="margin: 0 auto;" src="/public/images/posts/2015-05-23 11.45.49.jpg"><br>
-	<span>違建、頂樓加蓋非常嚴重</span>
-</p>
-
+<img class="full-one-img" src="/assets/images/posts/2015-05-23 11.45.49.jpg">
+<span class="full-one-img-text">違建、頂樓加蓋非常嚴重</span>
 
 立全社區2009年榮獲第17屆全國環保模範社區，環保、資源永續再利用，是當地的一大特色，也是當地的社造目標，然而此地將在不久後的將來被劃為都市計畫區，究竟是否該為了解決上述的問題，而大規模、大範圍式的剷平，進而破壞此地建立不易的社區連結，或為了社區的整體意識，居民的居住權，久居於此與土地共生的智慧，而選擇繼續忽視此地的公共危險，對我來說，終究是個兩難。
 
-<p style="text-align: center;">
-	<img style="margin: 0 auto;" src="/public/images/posts/2015-05-23 11.42.35.jpg"><br>
-	<span>當地使用廢紙漿打造的社區藝術</span>
-</p>
-
+<img class="full-one-img" src="/assets/images/posts/2015-05-23 11.42.35.jpg">
+<span class="full-one-img-text">當地使用廢紙漿打造的社區藝術</span>
 
 
 

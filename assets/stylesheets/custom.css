@@ -1,0 +1,11 @@
+.full-one-img {
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 90%;
+  margin-bottom: 5px;
+}
+
+.full-one-img-text {
+  text-align: center;
+  display: block;
+}
