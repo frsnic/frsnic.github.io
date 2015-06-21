@@ -9,11 +9,11 @@ tags: [ubuntu]
 ```
 grep --color=auto -nH 'DIR' *
 ```
--n, --line-number
-      Prefix  each  line of output with the 1-based line number within its input file.  (-n is specified by POSIX.)
+####-n, --line-number
+Prefix  each  line of output with the 1-based line number within its input file.  (-n is specified by POSIX.)
 
--H, --with-filename
-      Print  the  file  name for each match.  `This is the default` when there is more than one file to search.
+####-H, --with-filename
+Print  the  file  name for each match.  `This is the default` when there is more than one file to search.
 
-*, file path
+####*, file path
 
