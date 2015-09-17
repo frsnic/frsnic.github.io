@@ -10,6 +10,10 @@
   display: block;
 }
 
-.entry-content a {
+.content .entry-content h1 a,
+.content .entry-content h2 a,
+.content .entry-content h3 a,
+.content .entry-content h4 a,
+.content .entry-content h5 a {
   color: #00f !important;
 }
