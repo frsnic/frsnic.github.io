@@ -2,6 +2,8 @@ language: ruby
 rvm:
 - 2.2.1
 
+script: "jekyll build"
+
 # branch whitelist, only for GitHub Pages
 branches:
   only:
