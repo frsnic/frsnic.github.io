@@ -9,3 +9,7 @@
   text-align: center;
   display: block;
 }
+
+.entry-content a {
+  color: #00f !important;
+}
