@@ -71,6 +71,7 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+  system("jekyll server");
 end # task :post
 
 # Usage: rake page name="about.html"
